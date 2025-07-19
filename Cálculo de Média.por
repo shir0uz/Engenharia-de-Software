@@ -1,5 +1,5 @@
 
-// Cálculo de média para fins de estudo
+// Cálculo de média para fins de estudo.
 
 programa {
   inclua biblioteca Matematica --> m
