@@ -1,1 +1,1 @@
-Estudos 1° Semestre - Lógica da Programação com Portugol.dev UNIVALI
+Estudos 1° Semestre - Lógica da Programação 
